@@ -1,0 +1,73 @@
+[23-Apr-2019 21:20:44 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Duplicate entry '1-15' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO bm_post_to_product
+                    SET post_id = '15',
+                    product_id = '1'' in /home/bh54885/yugin.pro/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/bh54885/yugin.pro/system/library/db.php(45): DB\MySQLi->query('INSERT INTO bm_...')
+#1 /home/bh54885/yugin.pro/admin/model/extension/d_blog_module/post.php(56): DB->query('INSERT INTO bm_...')
+#2 /home/bh54885/yugin.pro/admin/model/extension/d_blog_module/post.php(221): ModelExtensionDBlogModulePost->addPost(Array)
+#3 [internal function]: ModelExtensionDBlogModulePost->copyPost('7')
+#4 /home/bh54885/yugin.pro/system/storage/modification/system/engine/loader.php(251): call_user_func_array(Array, Array)
+#5 [internal function]: Loader->{closure}(Array, Array)
+#6 /home/bh54885/yugin.pro/system/engine/proxy.php(47): call_user_func_array(Object(Closure), Array)
+#7 /home/bh54885/yugin.pro/admin/controller/extensio in /home/bh54885/yugin.pro/system/library/db/mysqli.php on line 40
+[23-Apr-2019 21:20:51 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Duplicate entry '1-16' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO bm_post_to_product
+                    SET post_id = '16',
+                    product_id = '1'' in /home/bh54885/yugin.pro/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/bh54885/yugin.pro/system/library/db.php(45): DB\MySQLi->query('INSERT INTO bm_...')
+#1 /home/bh54885/yugin.pro/admin/model/extension/d_blog_module/post.php(56): DB->query('INSERT INTO bm_...')
+#2 /home/bh54885/yugin.pro/admin/model/extension/d_blog_module/post.php(221): ModelExtensionDBlogModulePost->addPost(Array)
+#3 [internal function]: ModelExtensionDBlogModulePost->copyPost('7')
+#4 /home/bh54885/yugin.pro/system/storage/modification/system/engine/loader.php(251): call_user_func_array(Array, Array)
+#5 [internal function]: Loader->{closure}(Array, Array)
+#6 /home/bh54885/yugin.pro/system/engine/proxy.php(47): call_user_func_array(Object(Closure), Array)
+#7 /home/bh54885/yugin.pro/admin/controller/extensio in /home/bh54885/yugin.pro/system/library/db/mysqli.php on line 40
+[08-May-2019 17:06:39 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Duplicate entry '1-18' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO bm_post_to_product
+                    SET post_id = '18',
+                    product_id = '1'' in /home/bh54885/yugin.pro/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/bh54885/yugin.pro/system/library/db.php(45): DB\MySQLi->query('INSERT INTO bm_...')
+#1 /home/bh54885/yugin.pro/admin/model/extension/d_blog_module/post.php(56): DB->query('INSERT INTO bm_...')
+#2 /home/bh54885/yugin.pro/admin/model/extension/d_blog_module/post.php(221): ModelExtensionDBlogModulePost->addPost(Array)
+#3 [internal function]: ModelExtensionDBlogModulePost->copyPost('10')
+#4 /home/bh54885/yugin.pro/system/storage/modification/system/engine/loader.php(251): call_user_func_array(Array, Array)
+#5 [internal function]: Loader->{closure}(Array, Array)
+#6 /home/bh54885/yugin.pro/system/engine/proxy.php(47): call_user_func_array(Object(Closure), Array)
+#7 /home/bh54885/yugin.pro/admin/controller/extensi in /home/bh54885/yugin.pro/system/library/db/mysqli.php on line 40
+[08-May-2019 17:06:45 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Duplicate entry '1-19' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO bm_post_to_product
+                    SET post_id = '19',
+                    product_id = '1'' in /home/bh54885/yugin.pro/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/bh54885/yugin.pro/system/library/db.php(45): DB\MySQLi->query('INSERT INTO bm_...')
+#1 /home/bh54885/yugin.pro/admin/model/extension/d_blog_module/post.php(56): DB->query('INSERT INTO bm_...')
+#2 /home/bh54885/yugin.pro/admin/model/extension/d_blog_module/post.php(221): ModelExtensionDBlogModulePost->addPost(Array)
+#3 [internal function]: ModelExtensionDBlogModulePost->copyPost('10')
+#4 /home/bh54885/yugin.pro/system/storage/modification/system/engine/loader.php(251): call_user_func_array(Array, Array)
+#5 [internal function]: Loader->{closure}(Array, Array)
+#6 /home/bh54885/yugin.pro/system/engine/proxy.php(47): call_user_func_array(Object(Closure), Array)
+#7 /home/bh54885/yugin.pro/admin/controller/extensi in /home/bh54885/yugin.pro/system/library/db/mysqli.php on line 40
+[08-May-2019 17:30:00 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Duplicate entry '1-20' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO bm_post_to_product
+                    SET post_id = '20',
+                    product_id = '1'' in /home/bh54885/yugin.pro/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/bh54885/yugin.pro/system/library/db.php(45): DB\MySQLi->query('INSERT INTO bm_...')
+#1 /home/bh54885/yugin.pro/admin/model/extension/d_blog_module/post.php(56): DB->query('INSERT INTO bm_...')
+#2 /home/bh54885/yugin.pro/admin/model/extension/d_blog_module/post.php(221): ModelExtensionDBlogModulePost->addPost(Array)
+#3 [internal function]: ModelExtensionDBlogModulePost->copyPost('10')
+#4 /home/bh54885/yugin.pro/system/storage/modification/system/engine/loader.php(251): call_user_func_array(Array, Array)
+#5 [internal function]: Loader->{closure}(Array, Array)
+#6 /home/bh54885/yugin.pro/system/engine/proxy.php(47): call_user_func_array(Object(Closure), Array)
+#7 /home/bh54885/yugin.pro/admin/controller/extensi in /home/bh54885/yugin.pro/system/library/db/mysqli.php on line 40
+[08-May-2019 17:35:51 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Duplicate entry '1-21' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO bm_post_to_product
+                    SET post_id = '21',
+                    product_id = '1'' in /home/bh54885/yugin.pro/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/bh54885/yugin.pro/system/library/db.php(45): DB\MySQLi->query('INSERT INTO bm_...')
+#1 /home/bh54885/yugin.pro/admin/model/extension/d_blog_module/post.php(56): DB->query('INSERT INTO bm_...')
+#2 /home/bh54885/yugin.pro/admin/model/extension/d_blog_module/post.php(221): ModelExtensionDBlogModulePost->addPost(Array)
+#3 [internal function]: ModelExtensionDBlogModulePost->copyPost('10')
+#4 /home/bh54885/yugin.pro/system/storage/modification/system/engine/loader.php(251): call_user_func_array(Array, Array)
+#5 [internal function]: Loader->{closure}(Array, Array)
+#6 /home/bh54885/yugin.pro/system/engine/proxy.php(47): call_user_func_array(Object(Closure), Array)
+#7 /home/bh54885/yugin.pro/admin/controller/extensi in /home/bh54885/yugin.pro/system/library/db/mysqli.php on line 40
+[27-May-2019 21:46:53 Europe/Moscow] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 3650766273 bytes) in [no active file] on line 0

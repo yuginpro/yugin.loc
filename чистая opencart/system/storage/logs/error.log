@@ -1,0 +1,5 @@
+2019-06-06 21:15:01 - PHP Warning:  mysqli::mysqli(): (HY000/1049): Unknown database 'bh54885_yuginpro' in C:\OSPanel\domains\yugin.loc\system\library\db\mysqli.php on line 7
+2019-06-06 21:15:01 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\yugin.loc\system\library\db\mysqli.php on line 10
+2019-06-06 21:15:01 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\yugin.loc\system\library\db\mysqli.php on line 10
+2019-06-06 21:15:01 - PHP Notice:  Undefined variable: mysql in C:\OSPanel\domains\yugin.loc\install\controller\install\step_3.php on line 280
+2019-06-06 21:15:01 - PHP Notice:  Trying to get property of non-object in C:\OSPanel\domains\yugin.loc\install\controller\install\step_3.php on line 280
